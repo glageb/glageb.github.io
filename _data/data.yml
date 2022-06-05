@@ -14,15 +14,15 @@ sidebar:
     # Sidebar links
     email: glageb@gmail.com
     phone: 012 345 6789
-    citizenship: Brazilian | Italian
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    citizenship: Brazilian | Italian | Canada PR
+    website: #blog.webjeda.com #do not add http://
+    linkedin: guilherme-lage-bertschinger
+    xing: 
+    github: glageb
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
