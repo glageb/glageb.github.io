@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Guilherme Lage Bertschiger
-    tagline: Full Stack Developer
+    name: Guilherme Lage Bertschinger
+    tagline: IT Professional
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: glageb@gmail.com
     phone: 012 345 6789
     citizenship: Brazilian | Italian
     website: blog.webjeda.com #do not add http://
